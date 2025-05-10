@@ -25,11 +25,11 @@ GOPROXY=direct go install github.com/epicseven-cup/24-Hour-Hackerathon-Timer@lat
 
 
 ```bash
- -h
+ 24-Hour-Hackerathon-Timer -h
 ```
 
 # Example
 
 ```bash
-
+24-Hour-Hackerathon-Timer #Generate a random word every hour
 ```
